@@ -335,6 +335,26 @@ nav {
         font-size: 18px;
     }
 
+    /*--------INVESTMENT SECTION----------*/
+
+    .investmentTextImage {
+        flex-direction: column;
+    }
+
+    .investmentTextImage img {
+        width: 60vw;
+    }
+
+    .investmentText {
+        width: 60vw;
+    }
+
+    .investmentTitle {
+        font-size: 44px;
+        margin-bottom: 40px;
+    }
+
+
 }
 
 /*----------ANIMATIONS----------*/
